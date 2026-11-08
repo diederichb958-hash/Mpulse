@@ -1,2 +1,0 @@
-# Mpulse
-Finance
